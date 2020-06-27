@@ -1,0 +1,8 @@
+If you'd like to do a 1:1 recreation of what I've made, these are the part numbers for the components I used. All parts were purchased on Mouser, with the exception of the pro micro and its PCB leg headers (both sourced via aliexpress).
+I'll provide the manufacturer product numbers for each component, rather than the mouser number, should you prefer another vendor such as DigiKey or LCSC.
+1 PCB (from JLC, using the board files here)
+1 Potentiometer - PTV09A-4015F-B102
+6 tactile switches - FSM6JH
+1 10 hole terminal block - TB001-500-10BE
+5 through hole resistors (I used 220 ohm but I'd recommend going higher, mine are almost blindingly bright)- CFR-25JT-52-220R
+5 LEDs (Accidentally ordered oval ones, but just about any 5v LEDs will work just fine)- C4SMF-BJF-CR24Q4T2
